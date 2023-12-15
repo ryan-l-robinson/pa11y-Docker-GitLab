@@ -1,0 +1,14 @@
+{
+    "defaults": {
+        "chromeLaunchConfig": {
+            "args": [
+                "--no-sandbox"
+            ]
+        },
+        "runners": [
+            "axe",
+            "htmlcs"
+        ],
+        "level": "warning"
+    }
+}
