@@ -1,5 +1,3 @@
 # Pa11y Docker Containers with GitLab CI/CD
 
-This project builds a Docker image capable of using pa11y for accessibility testing purposes, using GitLab CI/CD.
-
-In the future, I may make another version of this using GitHub Actions.
+Since this is using GitLab CI/CD, I have moved it to (my GitLab)[https://gitlab.com/ryan-l-robinson/pa11y-Docker-GitLab] and will archive this one.
